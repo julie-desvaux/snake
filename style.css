@@ -1,0 +1,38 @@
+*,
+::before,
+::after {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #333333;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: sans-serif;
+	color: #fefefe;
+}
+
+h1 {
+	margin-top: 50px;
+}
+
+#score {
+	margin-top: 150px;
+	font-size: 50px;
+}
+
+#restart {
+	position: fixed;
+	left: 50%;
+	top: 15%;
+	transform: translate(-50%, -50%);
+	display: none;
+}
+
+#canvas {
+	margin-top: 100px;
+}

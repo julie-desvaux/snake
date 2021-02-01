@@ -1,0 +1,22 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "description": "Little Snake in Vanilla js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julie-desvaux/snake.git"
+  },
+  "keywords": [
+    "snake"
+  ],
+  "author": "julie-desvaux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julie-desvaux/snake/issues"
+  },
+  "homepage": "https://github.com/julie-desvaux/snake#readme"
+}
